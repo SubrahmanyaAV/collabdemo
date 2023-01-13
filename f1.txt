@@ -1,6 +1,10 @@
+hi
 Hi
 This is Bilva Prasad
 editing
 merging
 This is Bilva Prasad
 hello
+merging
+syncing
+auto commiting is under process
